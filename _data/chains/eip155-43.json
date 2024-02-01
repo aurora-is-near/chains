@@ -1,25 +1,16 @@
 {
   "name": "Darwinia Pangolin Testnet",
   "chain": "pangolin",
-  "rpc": ["https://pangolin-rpc.darwinia.network"],
-  "faucets": [
-    "https://docs.darwinia.network/pangolin-testnet-1e9ac8b09e874e8abd6a7f18c096ca6a"
-  ],
+  "network": "free testnet",
+  "rpc": [],
+  "faucets": [],
   "nativeCurrency": {
-    "name": "Pangolin Network Native Token",
+    "name": "Pangolin RING",
     "symbol": "PRING",
-    "decimals": 18
+    "decimals": 9
   },
   "infoURL": "https://darwinia.network/",
-  "shortName": "pangolin",
+  "shortName": "darwinia",
   "chainId": 43,
-  "networkId": 43,
-  "slip44": 1,
-  "explorers": [
-    {
-      "name": "subscan",
-      "url": "https://pangolin.subscan.io",
-      "standard": "none"
-    }
-  ]
+  "networkId": 43
 }

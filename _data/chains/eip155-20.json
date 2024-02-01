@@ -1,7 +1,10 @@
 {
-  "name": "Elastos Smart Chain",
+  "name": "ELA-ETH-Sidechain Mainnet",
   "chain": "ETH",
-  "rpc": ["https://api.elastos.io/eth"],
+  "network": "mainnet",
+  "rpc": [
+    "https://mainrpc.elaeth.io"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Elastos",
@@ -9,14 +12,7 @@
     "decimals": 18
   },
   "infoURL": "https://www.elastos.org/",
-  "shortName": "esc",
+  "shortName": "elaeth",
   "chainId": 20,
-  "networkId": 20,
-  "explorers": [
-    {
-      "name": "elastos esc explorer",
-      "url": "https://esc.elastos.io",
-      "standard": "EIP3091"
-    }
-  ]
+  "networkId": 20
 }

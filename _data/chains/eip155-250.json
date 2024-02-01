@@ -1,11 +1,8 @@
 {
   "name": "Fantom Opera",
   "chain": "FTM",
-  "rpc": [
-    "https://rpc.ftm.tools",
-    "https://fantom.publicnode.com",
-    "wss://fantom.publicnode.com"
-  ],
+  "network": "mainnet",
+  "rpc": ["https://rpcapi.fantom.network"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Fantom",
@@ -22,12 +19,6 @@
       "name": "ftmscan",
       "url": "https://ftmscan.com",
       "icon": "ftmscan",
-      "standard": "EIP3091"
-    },
-    {
-      "name": "dexguru",
-      "url": "https://fantom.dex.guru",
-      "icon": "dexguru",
       "standard": "EIP3091"
     }
   ]

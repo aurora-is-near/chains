@@ -4,12 +4,3 @@ _site
 .DS_Store
 .env
 node_modules
-.idea
-output
-.gradle
-model/bin
-model/build
-processor/bin
-processor/build
-httpsloader/build
-httpsloader/bin

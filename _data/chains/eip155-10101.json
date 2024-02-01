@@ -1,6 +1,7 @@
 {
   "name": "Blockchain Genesis Mainnet",
   "chain": "GEN",
+  "network": "mainnet",
   "rpc": [
     "https://eu.mainnet.xixoio.com",
     "https://us.mainnet.xixoio.com",

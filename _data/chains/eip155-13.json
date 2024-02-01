@@ -1,7 +1,11 @@
 {
   "name": "Diode Testnet Staging",
   "chain": "DIODE",
-  "rpc": ["https://staging.diode.io:8443/", "wss://staging.diode.io:8443/ws"],
+  "network": "testnet",
+  "rpc": [
+    "https://staging.diode.io:8443/",
+    "wss://staging.diode.io:8443/ws"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Staging Diodes",
@@ -11,6 +15,5 @@
   "infoURL": "https://diode.io/staging",
   "shortName": "dstg",
   "chainId": 13,
-  "networkId": 13,
-  "slip44": 1
+  "networkId": 13
 }

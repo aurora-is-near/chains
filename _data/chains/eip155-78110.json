@@ -1,7 +1,10 @@
 {
   "name": "Firenze test network",
   "chain": "ETH",
-  "rpc": ["https://ethnode.primusmoney.com/firenze"],
+  "network": "testnet",
+  "rpc": [
+    "https://ethnode.primusmoney.com/firenze"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Firenze Ether",
@@ -11,6 +14,5 @@
   "infoURL": "https://primusmoney.com",
   "shortName": "firenze",
   "chainId": 78110,
-  "networkId": 78110,
-  "slip44": 1
+  "networkId": 78110
 }

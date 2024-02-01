@@ -1,7 +1,10 @@
 {
   "name": "PrimusChain mainnet",
   "chain": "PC",
-  "rpc": ["https://ethnode.primusmoney.com/mainnet"],
+  "network": "mainnet",
+  "rpc": [
+    "https://ethnode.primusmoney.com/mainnet"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Primus Ether",

@@ -1,8 +1,13 @@
 {
   "name": "Lightstreams Testnet",
   "chain": "PHT",
-  "rpc": ["https://node.sirius.lightstreams.io"],
-  "faucets": ["https://discuss.lightstreams.network/t/request-test-tokens"],
+  "network": "sirius",
+  "rpc": [
+    "https://node.sirius.lightstreams.io"
+  ],
+  "faucets": [
+    "https://discuss.lightstreams.network/t/request-test-tokens"
+  ],
   "nativeCurrency": {
     "name": "Lightstreams PHT",
     "symbol": "PHT",
@@ -11,6 +16,5 @@
   "infoURL": "https://explorer.sirius.lightstreams.io",
   "shortName": "tpht",
   "chainId": 162,
-  "networkId": 162,
-  "slip44": 1
+  "networkId": 162
 }

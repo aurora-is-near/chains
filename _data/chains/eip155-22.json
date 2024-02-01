@@ -1,6 +1,7 @@
 {
   "name": "ELA-DID-Sidechain Mainnet",
   "chain": "ETH",
+  "network": "mainnet",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {

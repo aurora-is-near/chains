@@ -1,6 +1,7 @@
 {
-  "name": "Moonrock old",
+  "name": "Moonrock Rococo",
   "chain": "MOON",
+  "network": "moonrock",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {
@@ -9,8 +10,7 @@
     "decimals": 18
   },
   "infoURL": "",
-  "shortName": "mrock-old",
+  "shortName": "mrock",
   "chainId": 1286,
-  "networkId": 1286,
-  "status": "deprecated"
+  "networkId": 1286
 }

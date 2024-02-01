@@ -1,7 +1,10 @@
 {
   "name": "Teslafunds",
   "chain": "TSF",
-  "rpc": ["https://tsfapi.europool.me"],
+  "network": "mainnet",
+  "rpc": [
+    "https://tsfapi.europool.me"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Teslafunds Ether",

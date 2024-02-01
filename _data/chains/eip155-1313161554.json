@@ -1,22 +1,18 @@
 {
-  "name": "Aurora Mainnet",
+  "name": "NEAR MainNet",
   "chain": "NEAR",
-  "rpc": ["https://mainnet.aurora.dev"],
-  "faucets": [],
+  "network": "mainnet",
+  "rpc": [
+  ],
+  "faucets": [
+  ],
   "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 24
   },
-  "infoURL": "https://aurora.dev",
-  "shortName": "aurora",
+  "infoURL": "https://near.org/",
+  "shortName": "near",
   "chainId": 1313161554,
-  "networkId": 1313161554,
-  "explorers": [
-    {
-      "name": "aurorascan.dev",
-      "url": "https://aurorascan.dev",
-      "standard": "EIP3091"
-    }
-  ]
+  "networkId": 1313161554
 }

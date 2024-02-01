@@ -1,7 +1,10 @@
 {
   "name": "Webchain",
   "chain": "WEB",
-  "rpc": [],
+  "network": "mainnet",
+  "rpc": [
+    "https://node1.webchain.network"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Webchain Ether",
@@ -11,6 +14,5 @@
   "infoURL": "https://webchain.network",
   "shortName": "web",
   "chainId": 24484,
-  "networkId": 37129,
-  "slip44": 227
+  "networkId": 37129
 }

@@ -1,6 +1,7 @@
 {
   "name": "Ubiq Network Testnet",
   "chain": "UBQ",
+  "network": "mainnet",
   "rpc": [],
   "faucets": [],
   "nativeCurrency": {
@@ -11,6 +12,5 @@
   "infoURL": "https://ethersocial.org",
   "shortName": "tubq",
   "chainId": 9,
-  "networkId": 2,
-  "slip44": 1
+  "networkId": 2
 }

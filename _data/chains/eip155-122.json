@@ -1,7 +1,10 @@
 {
   "name": "Fuse Mainnet",
   "chain": "FUSE",
-  "rpc": ["https://rpc.fuse.io"],
+  "network": "mainnet",
+  "rpc": [
+    "https://rpc.fuse.io"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Fuse",
@@ -11,14 +14,5 @@
   "infoURL": "https://fuse.io/",
   "shortName": "fuse",
   "chainId": 122,
-  "networkId": 122,
-  "icon": "fuse",
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://explorer.fuse.io",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ]
+  "networkId": 122
 }

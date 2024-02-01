@@ -1,7 +1,10 @@
 {
   "name": "Expanse Network",
   "chain": "EXP",
-  "rpc": ["https://node.expanse.tech"],
+  "network": "mainnet",
+  "rpc": [
+    "https://node.expanse.tech"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "Expanse Network Ether",

@@ -1,15 +1,18 @@
 {
-  "name": "cheapETH",
-  "chain": "cheapETH",
-  "rpc": ["https://node.cheapeth.org/rpc"],
+  "name": "Ethermint Testnet",
+  "chain": "ETHERMINT",
+  "network": "testnet",
+  "rpc": [
+    "http://54.210.246.165:8545"
+  ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "cTH",
-    "symbol": "cTH",
+    "name": "Photon",
+    "symbol": "Photon",
     "decimals": 18
   },
-  "infoURL": "https://cheapeth.org/",
-  "shortName": "cth",
+  "infoURL": "https://docs.ethermint.zone",
+  "shortName": "emint",
   "chainId": 777,
   "networkId": 777
 }

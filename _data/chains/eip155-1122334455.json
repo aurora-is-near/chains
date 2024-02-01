@@ -1,7 +1,11 @@
 {
   "name": "IPOS Network",
   "chain": "IPOS",
-  "rpc": ["https://rpc.iposlab.com", "https://rpc2.iposlab.com"],
+  "network": "mainnet",
+  "rpc": [
+    "https://rpc.iposlab.com",
+    "https://rpc2.iposlab.com"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "IPOS Network Ether",

@@ -1,10 +1,13 @@
 {
   "name": "Callisto Mainnet",
   "chain": "CLO",
-  "rpc": ["https://rpc.callisto.network/"],
+  "network": "mainnet",
+  "rpc": [
+    "https://clo-geth.0xinfra.com"
+  ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Callisto",
+    "name": "Callisto Mainnet Ether",
     "symbol": "CLO",
     "decimals": 18
   },

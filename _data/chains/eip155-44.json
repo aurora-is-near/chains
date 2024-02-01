@@ -1,26 +1,16 @@
 {
-  "name": "Crab Network",
+  "name": "Darwinia Crab Network",
   "chain": "crab",
-  "rpc": [
-    "https://crab-rpc.darwinia.network",
-    "https://crab-rpc.darwiniacommunitydao.xyz",
-    "https://darwiniacrab-rpc.dwellir.com"
-  ],
+  "network": "Crab network",
+  "rpc": [],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Crab Network Native Token",
-    "symbol": "CRAB",
-    "decimals": 18
+    "name": "Crab Token",
+    "symbol": "CRING",
+    "decimals": 9
   },
   "infoURL": "https://crab.network/",
   "shortName": "crab",
   "chainId": 44,
-  "networkId": 44,
-  "explorers": [
-    {
-      "name": "subscan",
-      "url": "https://crab.subscan.io",
-      "standard": "none"
-    }
-  ]
+  "networkId": 44
 }

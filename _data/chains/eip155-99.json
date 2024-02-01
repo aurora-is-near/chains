@@ -1,24 +1,21 @@
 {
   "name": "POA Network Core",
   "chain": "POA",
-  "rpc": ["https://core.poa.network"],
+  "network": "core",
+  "rpc": [
+    "https://core.poanetwork.dev",
+    "http://core.poanetwork.dev:8545",
+    "https://core.poa.network",
+    "ws://core.poanetwork.dev:8546"
+  ],
   "faucets": [],
   "nativeCurrency": {
     "name": "POA Network Core Ether",
-    "symbol": "POA",
+    "symbol": "SKL",
     "decimals": 18
   },
   "infoURL": "https://poa.network",
-  "shortName": "poa",
+  "shortName": "skl",
   "chainId": 99,
-  "networkId": 99,
-  "slip44": 178,
-  "explorers": [
-    {
-      "name": "blockscout",
-      "url": "https://blockscout.com/poa/core",
-      "icon": "blockscout",
-      "standard": "EIP3091"
-    }
-  ]
+  "networkId": 99
 }

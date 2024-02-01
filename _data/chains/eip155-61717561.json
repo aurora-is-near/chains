@@ -1,8 +1,14 @@
 {
   "name": "Aquachain",
   "chain": "AQUA",
-  "rpc": ["https://c.onical.org", "https://tx.aquacha.in/api"],
-  "faucets": ["https://aquacha.in/faucet"],
+  "network": "mainnet",
+  "rpc": [
+    "https://c.onical.org",
+    "https://tx.aquacha.in/api"
+  ],
+  "faucets": [
+    "https://aquacha.in/faucet"
+  ],
   "nativeCurrency": {
     "name": "Aquachain Ether",
     "symbol": "AQUA",

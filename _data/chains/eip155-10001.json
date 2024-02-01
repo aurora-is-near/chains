@@ -1,9 +1,9 @@
 {
   "name": "Smart Bitcoin Cash Testnet",
   "chain": "smartBCHTest",
+  "network": "testnet",
   "rpc": [
-    "https://rpc-testnet.smartbch.org",
-    "https://smartbch.devops.cash/testnet"
+    "https://rpc-testnet.smartbch.org"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -14,6 +14,5 @@
   "infoURL": "http://smartbch.org/",
   "shortName": "smartbchtest",
   "chainId": 10001,
-  "networkId": 10001,
-  "slip44": 1
+  "networkId": 10001
 }
